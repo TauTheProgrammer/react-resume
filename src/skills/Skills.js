@@ -1,5 +1,5 @@
 import './Skills.css';
-import { SKILLS } from '../../../constants';
+import { SKILLS } from '../constants';
 import { styled } from '@mui/material/styles';
 import CircleIcon from '@mui/icons-material/Circle';
 import CircleOutlinedIcon from '@mui/icons-material/CircleOutlined';

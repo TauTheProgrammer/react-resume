@@ -1,6 +1,6 @@
 import './Header.css';
-import { ACTIVE_PROFILE, HEADER } from '../../constants';
-import Details from './details/Details';
+import { ACTIVE_PROFILE, HEADER } from '../constants';
+import HeaderDetails from '../headerDetails/HeaderDetails';
 
 export default function Header() {
     return (
@@ -8,7 +8,7 @@ export default function Header() {
             <div className="header_name">Ryan Scott</div>
             <div className="header_position">{HEADER[ACTIVE_PROFILE]}</div>
             <hr />
-            <Details />
+            <HeaderDetails />
         </header>
     );
 }

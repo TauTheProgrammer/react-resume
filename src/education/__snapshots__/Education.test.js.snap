@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render as expected 1`] = `
+Array [
+  <h1>
+    Education History
+  </h1>,
+  <div
+    className="education-record"
+  >
+    <div
+      className="education-record__header"
+    >
+      <div
+        className="header__title"
+      >
+        Bachelor of Computer Science, Fairmont State University
+      </div>
+      <div>
+        Fairmont, WV
+      </div>
+    </div>
+    <div>
+      Jun 2012 - May 2015
+    </div>
+  </div>,
+  <div
+    className="education-record"
+  >
+    <div
+      className="education-record__header"
+    >
+      <div
+        className="header__title"
+      >
+        Pre-Physics/Computer Science, West Virginia University
+      </div>
+      <div>
+        Morgantown, WV
+      </div>
+    </div>
+    <div>
+      Aug 2009 - Jan 2012
+    </div>
+  </div>,
+]
+`;

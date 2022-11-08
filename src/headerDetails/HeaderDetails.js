@@ -1,9 +1,9 @@
-import './Details.css';
+import './HeaderDetails.css';
 import EmailIcon from '@mui/icons-material/Email';
 import PlaceIcon from '@mui/icons-material/Place';
 import PhoneIcon from '@mui/icons-material/Phone';
 
-export default function Details() {
+export default function HeaderDetails() {
     return (
         <div className="details-list">
             <div className="details-list__detail">

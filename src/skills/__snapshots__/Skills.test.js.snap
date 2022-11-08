@@ -1,0 +1,2776 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render as expected 1`] = `
+Array [
+  <h1>
+    Experience
+  </h1>,
+  <div
+    className="skill-set"
+  >
+    <div
+      className="skill-set__header"
+    >
+      Front-end
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="JavaScript"
+      >
+        JavaScript
+      </label>
+      <span
+        aria-label="4 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="JavaScript"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="HTML"
+      >
+        HTML
+      </label>
+      <span
+        aria-label="4 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="HTML"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="CSS"
+      >
+        CSS
+      </label>
+      <span
+        aria-label="4 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="CSS"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="React"
+      >
+        React
+      </label>
+      <span
+        aria-label="4 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="React"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Jest"
+      >
+        Jest
+      </label>
+      <span
+        aria-label="2 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Jest"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="AngularJS"
+      >
+        AngularJS
+      </label>
+      <span
+        aria-label="1 Star"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="AngularJS"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Polymer"
+      >
+        Polymer
+      </label>
+      <span
+        aria-label="5 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Polymer"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Mocha/Chai"
+      >
+        Mocha/Chai
+      </label>
+      <span
+        aria-label="3 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Mocha/Chai"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="TypeScript"
+      >
+        TypeScript
+      </label>
+      <span
+        aria-label="3 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="TypeScript"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="skill-set"
+  >
+    <div
+      className="skill-set__header"
+    >
+      Back-end
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Java"
+      >
+        Java
+      </label>
+      <span
+        aria-label="2 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Java"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="REST(jaxrs)"
+      >
+        REST(jaxrs)
+      </label>
+      <span
+        aria-label="3 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="REST(jaxrs)"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Junit/Mockito"
+      >
+        Junit/Mockito
+      </label>
+      <span
+        aria-label="3 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Junit/Mockito"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="skill-set"
+  >
+    <div
+      className="skill-set__header"
+    >
+      Agile Methodologies
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Sprint Planning"
+      >
+        Sprint Planning
+      </label>
+      <span
+        aria-label="3 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Sprint Planning"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Backlog Grooming"
+      >
+        Backlog Grooming
+      </label>
+      <span
+        aria-label="3 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Backlog Grooming"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Sprint Review/Retro"
+      >
+        Sprint Review/Retro
+      </label>
+      <span
+        aria-label="4 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Sprint Review/Retro"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="skill-set"
+  >
+    <div
+      className="skill-set__header"
+    >
+      Tools
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Jira"
+      >
+        Jira
+      </label>
+      <span
+        aria-label="4 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Jira"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Webpack"
+      >
+        Webpack
+      </label>
+      <span
+        aria-label="2 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Webpack"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Gulp"
+      >
+        Gulp
+      </label>
+      <span
+        aria-label="4 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Gulp"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Docker"
+      >
+        Docker
+      </label>
+      <span
+        aria-label="2 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Docker"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Kubernetes"
+      >
+        Kubernetes
+      </label>
+      <span
+        aria-label="2 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Kubernetes"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Tomcat"
+      >
+        Tomcat
+      </label>
+      <span
+        aria-label="1 Star"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Tomcat"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="skill-set"
+  >
+    <div
+      className="skill-set__header"
+    >
+      CI/CD
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="git"
+      >
+        git
+      </label>
+      <span
+        aria-label="3 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="git"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Jenkins"
+      >
+        Jenkins
+      </label>
+      <span
+        aria-label="2 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Jenkins"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="skill-set"
+  >
+    <div
+      className="skill-set__header"
+    >
+      Cloud Architecture
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="AWS"
+      >
+        AWS
+      </label>
+      <span
+        aria-label="1 Star"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="AWS"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+  </div>,
+  <div
+    className="skill-set"
+  >
+    <div
+      className="skill-set__header"
+    >
+      Operating Systems
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Mac"
+      >
+        Mac
+      </label>
+      <span
+        aria-label="4 Stars"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Mac"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <div
+      className="skill-set__skill"
+    >
+      <label
+        className="skill__skill-name"
+        htmlFor="Windows"
+      >
+        Windows
+      </label>
+      <span
+        aria-label="1 Star"
+        className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
+        id="Windows"
+        onMouseLeave={[Function]}
+        onMouseMove={[Function]}
+        role="img"
+      >
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+        <span>
+          <span
+            className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
+              data-testid="CircleOutlinedIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+  </div>,
+]
+`;

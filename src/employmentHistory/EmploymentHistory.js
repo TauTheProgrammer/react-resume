@@ -1,6 +1,6 @@
 import './EmploymentHistory.css';
 import { Fragment } from "react";
-import { EMPLOYMENT_HISTORY } from '../../../constants';
+import { EMPLOYMENT_HISTORY } from '../constants';
 
 export default function EmploymentHistory() {
     return (

@@ -1,6 +1,6 @@
 import './Education.css';
 import { Fragment } from "react";
-import { EDUCATION } from "../../../constants";
+import { EDUCATION } from "../constants";
 
 export default function Education() {
     return (

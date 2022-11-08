@@ -1,9 +1,9 @@
 import renderer from 'react-test-renderer';
-import Resume from './Resume';
+import EmploymentHistory from './EmploymentHistory';
 
 it('Should render as expected', () => {
     const tree = renderer
-        .create(<Resume />)
+        .create(<EmploymentHistory />)
         .toJSON();
     expect(tree).toMatchSnapshot();
 });

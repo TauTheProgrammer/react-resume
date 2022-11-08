@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render as expected 1`] = `
+Array [
+  <h1>
+    Employment History
+  </h1>,
+  <div
+    className="employment-record"
+  >
+    <div
+      className="employment-record__header"
+    >
+      <div
+        className="companyName"
+      >
+        TeleTracking Technologies, Inc.
+      </div>
+      <div
+        className="location"
+      >
+        Remote
+      </div>
+    </div>
+    <div
+      className="employment-record__duration"
+    >
+      Sep 2021 - Nov 2022
+    </div>
+    <ul>
+      <li>
+        Learned basics of Python, Kubernetes configurations, AngularJS 1.x, Redux.js, and developing in Android Studio
+      </li>
+      <li>
+        Worked on small team with low resources and high accountability, ran backlog grooming and occasional sprint planning
+      </li>
+      <li>
+        Helped fix zero-day log4j vulnerability, working after hours to ensure issue was fixed in all environments
+      </li>
+      <li>
+        Created custom Mongo read converter to fix mission-critical bug due to conflicting data types in production data until it could be migrated
+      </li>
+    </ul>
+  </div>,
+  <div
+    className="employment-record"
+  >
+    <div
+      className="employment-record__header"
+    >
+      <div
+        className="companyName"
+      >
+        Leidos
+      </div>
+      <div
+        className="location"
+      >
+        Morgantown, WV
+      </div>
+    </div>
+    <div
+      className="employment-record__duration"
+    >
+      Oct 2015 - Sep 2021
+    </div>
+    <ul>
+      <li>
+        Mastered Google Polymer framework, became a SME for advanced problems, and fixing mission critical bugs in production environments
+      </li>
+      <li>
+        Greatly optimized BPMN app framerate from 10-14 to ~45FPS by replacing HTML graph components with SVGs
+      </li>
+      <li>
+        Became full-stack, working on custom REST endpoints and services executing business logic, Java microservices
+      </li>
+      <li>
+        Learned unit testing, including coverage for both front and back ends (Mockito, Mocha, Chai), with some Jenkins automation to run them
+      </li>
+      <li>
+        Slashed through tickets, maintaining a high velocity without compromising code quality
+      </li>
+      <li>
+        Drove continuous team improvement through sprint retrospectives
+      </li>
+      <li>
+        As a dev lead, ran scrum ceremonies, directly worked with stakeholders, planned sprints
+      </li>
+      <li>
+        Greatly improved existing RBAC design for client-server application by storing data in encrypted/signed JWT, reducing microservice dependencies, impact in the event of microservice outage, and increasing performance
+      </li>
+    </ul>
+  </div>,
+]
+`;

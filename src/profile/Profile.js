@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-import { PROFILE, ACTIVE_PROFILE } from "../../../constants";
+import { PROFILE, ACTIVE_PROFILE } from "../constants";
 
 export default function Profile() {
     return (

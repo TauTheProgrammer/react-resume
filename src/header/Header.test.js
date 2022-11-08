@@ -1,9 +1,9 @@
 import renderer from 'react-test-renderer';
-import Resume from './Resume';
+import Header from './Header';
 
 it('Should render as expected', () => {
     const tree = renderer
-        .create(<Resume />)
+        .create(<Header />)
         .toJSON();
     expect(tree).toMatchSnapshot();
 });

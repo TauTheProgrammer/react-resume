@@ -1,8 +1,8 @@
 import './Body.css';
-import Profile from "./profile/Profile";
-import EmploymentHistory from "./employmentHistory/EmploymentHistory";
-import Education from "./education/Education";
-import Skills from './skills/Skills';
+import Profile from "../profile/Profile";
+import EmploymentHistory from "../employmentHistory/EmploymentHistory";
+import Education from "../education/Education";
+import Skills from '../skills/Skills';
 
 export default function Body() {
     return (
