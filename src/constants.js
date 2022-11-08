@@ -1,32 +1,19 @@
 /******************************************************************************************
- * ENVIRONMENTAL VARIABLES
- * TODO: Turn this into a flag to include when running `npm start`
- ******************************************************************************************/
-export const ACTIVE_PROFILE = "fullStack";  // "frontEnd or fullStack"
-
-/******************************************************************************************
  * CONSTANTS
  ******************************************************************************************/
 export const PROFILE = Object.freeze({
-    profileSummary: {
-        frontEnd: `
-            Experienced full stack developer able to use skill set to effectively contribute to both front and back end of microservice-driven web applications.
-            Adept in creating flexible user interfaces and modular/reusable components to build responsive, performant, maintainable, and accessible web applications across multiple browsers.
-            An effective asset experienced with working in Agile and collaborative environments, can self-manage when appropriate, and has experiencing managing a small team of developers.
-        `,
-        fullStack: `
-            Experienced full stack developer able to use skill set to effectively contribute to both front and back end of microservice-driven web applications.
-            Adept in creating flexible user interfaces and modular/reusable components to build responsive, performant, maintainable, and accessible web applications across multiple browsers.
-            Competent with working on back-end web services that deliver meaningful content to users on the front-end.
-            Proficient with a range of technologies covering fullstack, including Java, JavaScript, TypeScript, React, HTML, and CSS.
-            An effective asset experienced with working in Agile and collaborative environments, can self-manage when appropriate, and has experiencing managing a small team of developers.
-        `
-    }
-})
-
-export const HEADER = Object.freeze({
-    frontEnd: "Web Developer",
-    fullStack: "Software Engineer"
+    "Web Developer": `
+        Experienced full stack developer able to use skill set to effectively contribute to both front and back end of microservice-driven web applications.
+        Adept in creating flexible user interfaces and modular/reusable components to build responsive, performant, maintainable, and accessible web applications across multiple browsers.
+        An effective asset experienced with working in Agile and collaborative environments, can self-manage when appropriate, and has experiencing managing a small team of developers.
+    `,
+    "Software Engineer": `
+        Experienced full stack developer able to use skill set to effectively contribute to both front and back end of microservice-driven web applications.
+        Adept in creating flexible user interfaces and modular/reusable components to build responsive, performant, maintainable, and accessible web applications across multiple browsers.
+        Competent with working on back-end web services that deliver meaningful content to users on the front-end.
+        Proficient with a range of technologies covering fullstack, including Java, JavaScript, TypeScript, React, HTML, and CSS.
+        An effective asset experienced with working in Agile and collaborative environments, can self-manage when appropriate, and has experiencing managing a small team of developers.
+    `
 });
 
 export const SKILLS = Object.freeze({
@@ -147,7 +134,7 @@ export const SKILLS = Object.freeze({
             ]
         }
     ]
-})
+});
 
 export const EMPLOYMENT_HISTORY = Object.freeze({
     employmentHistory: [
@@ -179,7 +166,7 @@ export const EMPLOYMENT_HISTORY = Object.freeze({
             ] 
         }
     ]
-})
+});
 
 export const EDUCATION = Object.freeze({
     education: [
@@ -196,4 +183,4 @@ export const EDUCATION = Object.freeze({
             majorOrDegree: "Pre-Physics/Computer Science"
         }
     ]
-})
+});

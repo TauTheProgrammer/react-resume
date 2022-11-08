@@ -1,13 +1,12 @@
 import { Fragment } from "react";
-import { PROFILE, ACTIVE_PROFILE } from "../constants";
 
-export default function Profile() {
+export default function ProfileNotFound() {
     return (
         <Fragment>
             <h1>Profile</h1>
             <div className="profile-content">
                 <p>
-                    {PROFILE.profileSummary[ACTIVE_PROFILE]}
+                    {`Profile not found for job title {${process.env.REACT_APP_JOB_TITLE}}`}
                 </p>
             </div>
         </Fragment>
