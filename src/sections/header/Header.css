@@ -1,0 +1,22 @@
+.header {
+    background-color: var(--background-primary);
+    color: var(--primary-text-inverted);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.header_name {
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.header_position {
+    margin-bottom: 10px;
+}
+
+hr {
+    margin: 0 0 10px 0;
+}

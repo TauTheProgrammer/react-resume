@@ -1,0 +1,14 @@
+.education-record:not(:last-of-type) {
+    margin-bottom: 7px;
+}
+
+.education-record__header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__title {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 2px;
+}

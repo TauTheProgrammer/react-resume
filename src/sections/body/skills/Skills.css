@@ -1,0 +1,15 @@
+.skill-set:not(:last-of-type) {
+    margin-bottom: 10px;
+}
+
+.skill-set__header {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.skill-set__skill {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 0 5px 8px;
+}

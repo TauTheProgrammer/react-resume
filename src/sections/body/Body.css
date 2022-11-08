@@ -1,0 +1,16 @@
+.body {
+    padding: 10px 40px;
+    display: flex;
+    height: 100%;
+}
+
+.resume-body__primary {
+    width: 75vw;
+    padding-right: 10px;
+    border-right: 2px solid var(--border-color);
+}
+
+.resume-body__secondary {
+    width: 25vw;
+    padding-left: 10px;
+}

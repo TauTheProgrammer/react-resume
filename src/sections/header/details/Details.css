@@ -1,0 +1,20 @@
+.details-list {
+    display: flex;
+    padding-bottom: 10px;
+}
+
+.details-list__detail {
+    display: flex;
+}
+
+.details-list__detail:not(:last-child) {
+    margin-right: 50px;
+}
+
+.detail__icon {
+    margin-right: 10px;
+}
+
+a {
+    color: white;
+}
