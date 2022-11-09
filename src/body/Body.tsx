@@ -1,18 +1,18 @@
 import './Body.css';
+import React, { Suspense } from 'react';
 import EmploymentHistory from '../employmentHistory/EmploymentHistory';
 import Education from '../education/Education';
 import Skills from '../skills/Skills';
-import React, { Suspense } from 'react';
 
 export default function Body() {
     const ProfileComponent = React.lazy(() => {
         if (process.env.REACT_APP_JOB_TITLE === 'Web Developer') {
             return import('../profile/FrontEndProfile');
-        } else if (process.env.REACT_APP_JOB_TITLE === 'Software Engineer') {
-            return import('../profile/FullStackProfile');
-        } else {
-            return import('../profile/ProfileNotFound');
         }
+        if (process.env.REACT_APP_JOB_TITLE === 'Software Engineer') {
+            return import('../profile/FullStackProfile');
+        }
+        return import('../profile/ProfileNotFound');
     });
 
     return (

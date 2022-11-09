@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Should render as expected 1`] = `
+exports[`Should render 1`] = `
 <div
   className="resume"
 >
@@ -24,6 +24,14 @@ exports[`Should render as expected 1`] = `
       <div
         className="details-list__detail"
       >
+        <style
+          dangerouslySetInnerHTML={
+            {
+              "__html": ".css-1lrr7yx-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:20px;}",
+            }
+          }
+          data-emotion="css 1lrr7yx-MuiSvgIcon-root"
+        />
         <svg
           aria-hidden={true}
           className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium detail__icon css-1lrr7yx-MuiSvgIcon-root"
@@ -44,6 +52,14 @@ exports[`Should render as expected 1`] = `
       <div
         className="details-list__detail"
       >
+        <style
+          dangerouslySetInnerHTML={
+            {
+              "__html": ".css-1lrr7yx-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:20px;}",
+            }
+          }
+          data-emotion="css 1lrr7yx-MuiSvgIcon-root"
+        />
         <svg
           aria-hidden={true}
           className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium detail__icon css-1lrr7yx-MuiSvgIcon-root"
@@ -62,6 +78,14 @@ exports[`Should render as expected 1`] = `
       <div
         className="details-list__detail"
       >
+        <style
+          dangerouslySetInnerHTML={
+            {
+              "__html": ".css-1lrr7yx-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:20px;}",
+            }
+          }
+          data-emotion="css 1lrr7yx-MuiSvgIcon-root"
+        />
         <svg
           aria-hidden={true}
           className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium detail__icon css-1lrr7yx-MuiSvgIcon-root"
@@ -253,6 +277,22 @@ exports[`Should render as expected 1`] = `
             >
               JavaScript
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="4 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -262,9 +302,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -330,6 +386,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -357,6 +421,22 @@ exports[`Should render as expected 1`] = `
             >
               HTML
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="4 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -366,9 +446,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -434,6 +530,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -461,6 +565,22 @@ exports[`Should render as expected 1`] = `
             >
               CSS
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="4 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -470,9 +590,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -538,6 +674,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -565,6 +709,22 @@ exports[`Should render as expected 1`] = `
             >
               React
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="4 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -574,9 +734,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -642,6 +818,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -669,6 +853,22 @@ exports[`Should render as expected 1`] = `
             >
               Jest
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="2 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -678,9 +878,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -712,6 +928,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -773,6 +997,22 @@ exports[`Should render as expected 1`] = `
             >
               AngularJS
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="1 Star"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -782,9 +1022,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -799,6 +1055,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -877,6 +1141,22 @@ exports[`Should render as expected 1`] = `
             >
               Polymer
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="5 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -886,9 +1166,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -981,6 +1277,22 @@ exports[`Should render as expected 1`] = `
             >
               Mocha/Chai
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="3 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -990,9 +1302,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -1041,6 +1369,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -1085,6 +1421,22 @@ exports[`Should render as expected 1`] = `
             >
               TypeScript
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="3 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -1094,9 +1446,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -1145,6 +1513,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -1198,6 +1574,22 @@ exports[`Should render as expected 1`] = `
             >
               Java
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="2 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -1207,9 +1599,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -1241,6 +1649,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -1302,6 +1718,22 @@ exports[`Should render as expected 1`] = `
             >
               REST(jaxrs)
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="3 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -1311,9 +1743,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -1362,6 +1810,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -1406,6 +1862,22 @@ exports[`Should render as expected 1`] = `
             >
               Junit/Mockito
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="3 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -1415,9 +1887,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -1466,6 +1954,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -1519,6 +2015,22 @@ exports[`Should render as expected 1`] = `
             >
               Sprint Planning
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="3 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -1528,9 +2040,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -1579,6 +2107,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -1623,6 +2159,22 @@ exports[`Should render as expected 1`] = `
             >
               Backlog Grooming
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="3 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -1632,9 +2184,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -1683,6 +2251,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -1727,6 +2303,22 @@ exports[`Should render as expected 1`] = `
             >
               Sprint Review/Retro
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="4 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -1736,9 +2328,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -1804,6 +2412,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -1840,6 +2456,22 @@ exports[`Should render as expected 1`] = `
             >
               Jira
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="4 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -1849,9 +2481,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -1917,6 +2565,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -1944,6 +2600,22 @@ exports[`Should render as expected 1`] = `
             >
               Webpack
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="2 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -1953,9 +2625,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -1987,6 +2675,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -2048,6 +2744,22 @@ exports[`Should render as expected 1`] = `
             >
               Gulp
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="4 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -2057,9 +2769,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -2125,6 +2853,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -2152,6 +2888,22 @@ exports[`Should render as expected 1`] = `
             >
               Docker
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="2 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -2161,9 +2913,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -2195,6 +2963,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -2256,6 +3032,22 @@ exports[`Should render as expected 1`] = `
             >
               Kubernetes
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="2 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -2265,9 +3057,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -2299,6 +3107,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -2360,6 +3176,22 @@ exports[`Should render as expected 1`] = `
             >
               Tomcat
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="1 Star"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -2369,9 +3201,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -2386,6 +3234,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -2473,6 +3329,22 @@ exports[`Should render as expected 1`] = `
             >
               git
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="3 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -2482,9 +3354,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -2533,6 +3421,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -2577,6 +3473,22 @@ exports[`Should render as expected 1`] = `
             >
               Jenkins
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="2 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -2586,9 +3498,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -2620,6 +3548,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -2690,6 +3626,22 @@ exports[`Should render as expected 1`] = `
             >
               AWS
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="1 Star"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -2699,9 +3651,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -2716,6 +3684,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -2803,6 +3779,22 @@ exports[`Should render as expected 1`] = `
             >
               Mac
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="4 Stars"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -2812,9 +3804,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -2880,6 +3888,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >
@@ -2907,6 +3923,22 @@ exports[`Should render as expected 1`] = `
             >
               Windows
             </label>
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-nd4l4z .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css nd4l4z"
+            />
+            <style
+              dangerouslySetInnerHTML={
+                {
+                  "__html": ".css-1s1d0rr-MuiRating-root{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;position:relative;font-size:1.5rem;color:#faaf00;cursor:pointer;text-align:left;-webkit-tap-highlight-color:transparent;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-disabled{opacity:0.38;pointer-events:none;}.css-1s1d0rr-MuiRating-root.Mui-focusVisible .MuiRating-iconActive{outline:1px solid #999;}.css-1s1d0rr-MuiRating-root .MuiRating-visuallyHidden{border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px;}.css-1s1d0rr-MuiRating-root .MuiRating-iconFilled{color:var(--background-primary);}",
+                }
+              }
+              data-emotion="css 1s1d0rr-MuiRating-root"
+            />
             <span
               aria-label="1 Star"
               className="MuiRating-root MuiRating-sizeMedium MuiRating-readyOnly skill__skill-rating css-1s1d0rr-MuiRating-root"
@@ -2916,9 +3948,25 @@ exports[`Should render as expected 1`] = `
               role="img"
             >
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-7qmtgc-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;}",
+                    }
+                  }
+                  data-emotion="css 7qmtgc-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconFilled css-7qmtgc-MuiRating-icon"
                 >
+                  <style
+                    dangerouslySetInnerHTML={
+                      {
+                        "__html": ".css-1ej1pre-MuiSvgIcon-root{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;font-size:14px;}",
+                      }
+                    }
+                    data-emotion="css 1ej1pre-MuiSvgIcon-root"
+                  />
                   <svg
                     aria-hidden={true}
                     className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1ej1pre-MuiSvgIcon-root"
@@ -2933,6 +3981,14 @@ exports[`Should render as expected 1`] = `
                 </span>
               </span>
               <span>
+                <style
+                  dangerouslySetInnerHTML={
+                    {
+                      "__html": ".css-1c99szj-MuiRating-icon{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:-webkit-transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;pointer-events:none;color:rgba(0, 0, 0, 0.26);}",
+                    }
+                  }
+                  data-emotion="css 1c99szj-MuiRating-icon"
+                />
                 <span
                   className="MuiRating-icon MuiRating-iconEmpty css-1c99szj-MuiRating-icon"
                 >

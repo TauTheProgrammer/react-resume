@@ -1,4 +1,5 @@
 import './Header.css';
+import React from 'react';
 import HeaderDetails from '../headerDetails/HeaderDetails';
 
 export default function Header() {

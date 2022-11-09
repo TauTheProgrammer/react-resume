@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`FrontEndProfile should render as expected 1`] = `
+exports[`FrontEndProfile should render 1`] = `
 <div
   id="FrontEndProfile"
 >
@@ -13,7 +13,7 @@ exports[`FrontEndProfile should render as expected 1`] = `
 </div>
 `;
 
-exports[`FullStackProfile should render as expected 1`] = `
+exports[`FullStackProfile should render 1`] = `
 <div
   id="FullStackProfile"
 >
@@ -26,7 +26,7 @@ exports[`FullStackProfile should render as expected 1`] = `
 </div>
 `;
 
-exports[`ProfileNotFound should render as expected 1`] = `
+exports[`ProfileNotFound should render 1`] = `
 <div
   id="ProfileNotFound"
 >

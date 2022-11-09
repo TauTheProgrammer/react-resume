@@ -3,12 +3,18 @@ module.exports = {
         browser: true,
         es2021: true,
     },
-    extends: ['plugin:react/recommended', 'airbnb', 'prettier', 'jest'],
+    extends: [
+        'plugin:react/recommended',
+        'airbnb',
+        'airbnb-typescript',
+        'prettier',
+    ],
     overrides: [],
     parserOptions: {
+        project: 'tsconfig.json',
         ecmaVersion: 'latest',
         sourceType: 'module',
     },
-    plugins: ['react'],
+    plugins: ['react', '@typescript-eslint'],
     rules: {},
 };

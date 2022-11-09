@@ -1,3 +1,5 @@
+import React from 'react';
+
 export default function FrontEndProfile() {
     return (
         <div id="FrontEndProfile">

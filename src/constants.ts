@@ -1,6 +1,3 @@
-/******************************************************************************************
- * CONSTANTS
- ******************************************************************************************/
 export const PROFILE = Object.freeze({
     'Web Developer': `
         Experienced full stack developer able to use skill set to effectively contribute to both front and back end of microservice-driven web applications.

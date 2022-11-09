@@ -1,4 +1,5 @@
 import './HeaderDetails.css';
+import React from 'react';
 import EmailIcon from '@mui/icons-material/Email';
 import PlaceIcon from '@mui/icons-material/Place';
 import PhoneIcon from '@mui/icons-material/Phone';
