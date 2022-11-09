@@ -1,50 +1,50 @@
 :root {
-  --background-primary: #252525;
-  --primary-text: #303030;
-  --primary-text-inverted: #DDD;
-  --border-color: #4D4D4D;
+    --background-primary: #252525;
+    --primary-text: #303030;
+    --primary-text-inverted: #ddd;
+    --border-color: #4d4d4d;
 }
 
 @font-face {
-  font-family: Inter;
-  src: url('../assets/font/inter/Inter-VariableFont_slnt\,wght.ttf');
+    font-family: Inter;
+    src: url('../assets/font/inter/Inter-VariableFont_slnt\,wght.ttf');
 }
 
 @font-face {
-  font-family: OpenSans;
-  src: url('../assets/font/open-sans/OpenSans-VariableFont_wdth\,wght.ttf');
+    font-family: OpenSans;
+    src: url('../assets/font/open-sans/OpenSans-VariableFont_wdth\,wght.ttf');
 }
 
 @font-face {
-  font-family: Roboto;
-  src: url('../assets/font/roboto/Roboto-Regular.ttf');
+    font-family: Roboto;
+    src: url('../assets/font/roboto/Roboto-Regular.ttf');
 }
 
 body {
-  margin: 0;
-  font-family: 'Inter';
-  font-size: 14px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    font-family: 'Inter';
+    font-size: 14px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
 }
 
 hr {
-  background-color: var(--border-color);
-  width: 100%;
-  border: none;
-  height: 2px;
-  margin: 20px 0;
+    background-color: var(--border-color);
+    width: 100%;
+    border: none;
+    height: 2px;
+    margin: 20px 0;
 }
 
 h1 {
-  margin: 0 0 10px 0;
+    margin: 0 0 10px 0;
 }
 
 ul {
-  margin: 6px 0;
+    margin: 6px 0;
 }

@@ -1,6 +1,6 @@
 import './Education.css';
-import { Fragment } from "react";
-import { EDUCATION } from "../constants";
+import { Fragment } from 'react';
+import { EDUCATION } from '../constants';
 
 export default function Education() {
     return (
@@ -18,5 +18,5 @@ export default function Education() {
                 );
             })}
         </Fragment>
-    )
+    );
 }

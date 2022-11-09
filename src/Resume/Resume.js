@@ -3,10 +3,10 @@ import Header from '../header/Header';
 import Body from '../body/Body';
 
 export default function Resume() {
-  return (
-    <div className="resume">
-      <Header />
-      <Body />
-    </div>
-  );
+    return (
+        <div className="resume">
+            <Header />
+            <Body />
+        </div>
+    );
 }
